@@ -11,4 +11,4 @@ sudo ./mincap_timeout.sh ./program.bin
 ```
 
 ## Example
-Here is a `setTime.cpp` which will set the system time. Compile it and run it with `mincap_timeout.sh`, which will print the minimum capability it needs - cap_sys_time.
+Here is a `setTime.cpp` which will set the system time. Compile it then run it with `mincap_timeout.sh`, which will print the minimum capability it needs - cap_sys_time.
