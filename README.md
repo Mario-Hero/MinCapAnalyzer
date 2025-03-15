@@ -1,5 +1,5 @@
 # MinCapAnalyzer
-A simple bash script to analyze the minimum capability that a program need.
+Simple bash scripts to analyze the minimum capability that a program need.
 ## Usage
 If the program will return 0 or other error codes instantly, use `mincap.sh`:
 ```bash
